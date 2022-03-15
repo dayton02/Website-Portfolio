@@ -47,6 +47,16 @@ a:hover {
   color: #EAF6F6;
 }
 
+#games {
+  padding: 2% 15%;
+}
+
+#art {
+  text-align: center;
+  color: #fff;
+  padding-bottom: 5%;
+}
+
 .top-container {
   background-color: #B8DFD8;
   position: relative;
@@ -92,6 +102,7 @@ a:hover {
   font-size: 3rem;
   line-height: 1.5;
   font-weight: 900;
+  padding-bottom: 25px;
 }
 
 .modeling_icon {
@@ -159,67 +170,68 @@ a:hover {
   border: 5px solid #fff;
 }
 
-#games{
-  padding: 2% 15%;
-}
-.game-title{
+.game-title {
   padding: 3.5% 0;
   text-decoration: underline;
 }
 
-#art{
-  text-align: center;
-  color:#fff;
-  padding-bottom: 5%;
-}
-.art-image{
+.art-image {
   display: block;
   height: auto;
   max-width: 100%;
   line-height: 1;
-  margin:auto;
+  margin: auto;
   width: 100%;
 }
-.carousel-item{
-    padding: 5% 15%;
-}
-.project-page-footer{
-    background-color: #B5E0DE;
-    color: #363840;
-    font-size: 1.25rem;
-    padding: 20px 0 5px;
+
+.carousel-item {
+  padding: 5% 15%;
 }
 
-.other-buttons{
-  color:#fff;
+.project-page-footer {
+  background-color: #B5E0DE;
+  color: #363840;
+  font-size: 1.25rem;
+  padding: 20px 0 5px;
 }
 
-.other-buttons:hover{
+.other-buttons {
+  color: #fff;
+}
+
+.other-buttons:hover {
   color: #212529;
 }
 
-.description{
+.description {
   width: 85%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
 }
-.introduction-description{
+
+.introduction-description {
   margin: 0 250px;
   line-height: 2;
 }
-.opacity-05:hover{
-    opacity: 0.5;
+
+.opacity-05:hover {
+  opacity: 0.5;
 }
 
-.nav-margin{
+.nav-margin {
   margin: 10px 20px;
 }
 
-.game-title:hover{
-  color:#fff;
+.game-title:hover {
+  color: #fff;
 }
 
-.contact-logo{
+.contact-logo {
   padding: 0 10px;
+}
+
+.trailer {
+  width: 80%;
+  height: 80%;
 }
