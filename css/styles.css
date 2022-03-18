@@ -208,6 +208,7 @@ a:hover {
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
+  font-size: 80%;
 }
 
 .introduction-description {
@@ -220,7 +221,7 @@ a:hover {
 }
 
 .nav-margin {
-  margin: 10px 20px;
+  margin: 10px 0 10px 25px;
 }
 
 .game-title:hover {
@@ -234,4 +235,7 @@ a:hover {
 .trailer {
   width: 80%;
   height: 80%;
+}
+.dropdown-side{
+  display: inline-block;
 }
